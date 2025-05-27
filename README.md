@@ -16,7 +16,6 @@ Bu proje, bir üniversitenin çevrim içi kütüphane sistemi için tasarlanmı�
 - OpenAPI Spec Dosyası: [`openapi.yaml`](./openapi.yaml)
 - JSON Schema standardı: `https://json-schema.org/draft/2020-12/schema`
 
-
 💻 Geliştirme Ortamı
 - **OpenAPI Sürümü:** 3.1.0
 - **JSON Schema Uyumu:** Draft 2020-12
@@ -26,13 +25,8 @@ Bu proje, bir üniversitenin çevrim içi kütüphane sistemi için tasarlanmı�
 Testler Swagger, Postman veya benzeri araçlarla manuel olarak yapılabilir. Otomatik testler kapsam dışıdır.
 
 🧰 Kurulum ve Kullanım
-1. `openapi.yaml` dosyasını Swagger Editor'da açın:
-   - [https://editor.swagger.io](https://editor.swagger.io)
-
-2. Alternatif olarak terminalden Redoc ile:
-```bash
-npm install -g @redocly/cli
-redocly preview-docs openapi.yaml
+`openapi.yaml` dosyasını Swagger Editor'da açın:
+   [https://editor.swagger.io](https://editor.swagger.io)
 
 📂 Dosya Yapısı
 ```bash

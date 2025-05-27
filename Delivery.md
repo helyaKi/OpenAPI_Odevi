@@ -3,6 +3,7 @@
         170422993
 
 🔗 GitHub Repo Linki
+        https://github.com/helyaKi/OpenAPI_Odevi.git
 
 📝 API Açıklaması
 
